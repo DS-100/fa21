@@ -4,6 +4,9 @@ title: Lecture 21 – Principal Components Analysis
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 21 – Principal Components Analysis
 
 Presented by Anthony D. Joseph

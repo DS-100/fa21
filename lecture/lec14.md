@@ -4,6 +4,9 @@ title: Lecture 14 – Ordinary Least Squares
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 14 – Ordinary Least Squares
 
 Presented by Anthony D. Joseph and Suraj Rampure
